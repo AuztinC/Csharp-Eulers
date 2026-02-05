@@ -93,10 +93,11 @@
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.AssemblyInfoInputs.cache
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.AssemblyInfo.cs
-/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.csproj.CoreCompileInputs.cache
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Te.C762080D.Up2Date
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.dll
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/refint/Euler.Tests.dll
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.pdb
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.genruntimeconfig.cache
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/ref/Euler.Tests.dll
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.csproj.CoreCompileInputs.cache
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/Debug/net10.0/Euler.Tests.sourcelink.json
