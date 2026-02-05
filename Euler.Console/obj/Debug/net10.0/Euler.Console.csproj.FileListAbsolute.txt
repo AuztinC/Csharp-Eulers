@@ -12,3 +12,4 @@
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.pdb
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.genruntimeconfig.cache
 /Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/ref/Euler.Console.dll
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.sourcelink.json

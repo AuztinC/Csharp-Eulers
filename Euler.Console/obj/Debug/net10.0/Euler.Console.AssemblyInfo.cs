@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Euler.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37c5a8bb16032193bb7e3254ec5d5f52f6ffdc38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Euler.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Euler.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
