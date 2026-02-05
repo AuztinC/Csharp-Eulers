@@ -1,0 +1,14 @@
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/bin/Debug/net10.0/Euler.Console
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/bin/Debug/net10.0/Euler.Console.deps.json
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/bin/Debug/net10.0/Euler.Console.runtimeconfig.json
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/bin/Debug/net10.0/Euler.Console.dll
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/bin/Debug/net10.0/Euler.Console.pdb
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.AssemblyInfoInputs.cache
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.AssemblyInfo.cs
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.csproj.CoreCompileInputs.cache
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.dll
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/refint/Euler.Console.dll
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.pdb
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/Euler.Console.genruntimeconfig.cache
+/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/obj/Debug/net10.0/ref/Euler.Console.dll
