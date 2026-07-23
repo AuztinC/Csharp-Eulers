@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/Euler.Tests.csproj",
+      "projectUniqueName": "/Users/austincripe/Code/Csharp/C#-Eulers/Euler.Tests/Euler.Tests.csproj",
       "projectName": "Euler.Tests",
-      "projectPath": "/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/Euler.Tests.csproj",
+      "projectPath": "/Users/austincripe/Code/Csharp/C#-Eulers/Euler.Tests/Euler.Tests.csproj",
       "packagesPath": "/Users/austincripe/.nuget/packages/",
-      "outputPath": "/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Tests/obj/",
+      "outputPath": "/Users/austincripe/Code/Csharp/C#-Eulers/Euler.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/austincripe/.nuget/NuGet/NuGet.Config"
@@ -954,8 +954,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/Euler.Console.csproj": {
-              "projectPath": "/Users/austincripe/Documents/Code/C#/C#-Eulers/Euler.Console/Euler.Console.csproj"
+            "/Users/austincripe/Code/Csharp/C#-Eulers/Euler.Console/Euler.Console.csproj": {
+              "projectPath": "/Users/austincripe/Code/Csharp/C#-Eulers/Euler.Console/Euler.Console.csproj"
             }
           }
         }
